@@ -15,14 +15,14 @@
     <nav class="violet-bg">
         <div class="container auto">
             <ul class="float-left w-70">
-                <li><a href="">Home</a></li>
-                <li><a href="">Blog</a></li>
-                <li><a href="">ZCE Quiz</a></li>
-                <li><a href="">Discussão</a></li>
-                <li><a href="">Parceiros</a></li>
-                <li><a href="">Coordenação</a></li>
-                <li><a href="">Logo</a></li>
-                <li><a href="">Contato</a></li>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Blog</a></li>
+                <li><a href="#">ZCE Quiz</a></li>
+                <li><a href="#">Discussão</a></li>
+                <li><a href="#">Parceiros</a></li>
+                <li><a href="#">Coordenação</a></li>
+                <li><a href="#">Logo</a></li>
+                <li><a href="#">Contato</a></li>
             </ul>
         </div>
         <div >
